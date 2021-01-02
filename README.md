@@ -6,4 +6,5 @@ This repo contains list of relevent and useful commands and/or functions for Dee
     1. Code for - **Tensorboard** in *pytorch* : writing scalars, hparam, weight distributions and histograms.
     2. *Non-Tensorboard* Confusion Matrix
 
-2. ## Feat_ext - sample code of a model with pretrained model as feature extractor.
+2. ## Feat_ext 
+    1. sample code of a model with pretrained model as feature extractor.
