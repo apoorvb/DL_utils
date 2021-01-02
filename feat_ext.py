@@ -3,7 +3,7 @@ class feat_ext(nn.Module):
     def __init__(self, in_channels=1, num_classes=10):
         super(feat_ext, self).__init__()
         self.resnet = models.resnet18(pretrained=True)
-        mods = list(self.resnet.children())[:-3]#removing last three layers, layer4,avgpool,fc
+        mods = list(self.resnet.children())[:-3]#removing last three layers. layer4, avgpool, fc
         self.resnet = nn.Sequential(*mods)
         for p in self.resnet.parameters():
           p.requires_grad = False
