@@ -8,3 +8,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
 
 2. ## Feat_ext 
     1. sample code of a model with pretrained model as feature extractor.
+    
+3. ## Inline_plot
+    1. code for image and video inline plotting/display in a notebook.
