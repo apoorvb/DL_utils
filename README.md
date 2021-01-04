@@ -11,3 +11,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
     
 3. ## Inline_plot
     1. code for image and video inline plotting/display in a notebook.
+    
+4. ## Webcam Obj_det
+    1. code for running object detection using yolo3 cpu in terminal 
