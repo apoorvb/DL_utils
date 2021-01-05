@@ -2,7 +2,8 @@ import cv2
 import math
 
 counter = 0
-cap = cv2.VideoCapture('path/to/file')   # filename. replace path by 0 for frame capture from webcam
+cap = cv2.VideoCapture('path/to/file')   # filename. replace path by 0 for frame capture from webcam. 
+#for webcam, limit the number of frames extracted as it would continue looping.
 fps = cap.get(5) # 5th propid returns frames per second from the video
 
 while(cap.isOpened()):
