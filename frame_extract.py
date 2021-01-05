@@ -3,7 +3,7 @@ import math
 
 counter = 0
 cap = cv2.VideoCapture('path/to/file')   # filename. replace path by 0 for frame capture from webcam
-fps = cv2.get(5) # 5th propid returns frames per second from the video
+fps = cap.get(5) # 5th propid returns frames per second from the video
 
 while(cap.isOpened()):
     frame_id = cap.get(1) # 1st propid returns current frame index
