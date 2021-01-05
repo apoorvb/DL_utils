@@ -15,3 +15,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
     
 4. ## Webcam Obj_det
     1. code for running object detection using yolo3 cpu in terminal 
+
+5. ## frame extract
+    1. extract frames from videos/webcam stream.
