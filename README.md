@@ -18,3 +18,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
 
 5. ## frame extract
     1. extract frames from videos/webcam stream.
+
+6. ## writing vid
+    1. after processing frames from local video file or camera stream, save it as video. Using Opencv
