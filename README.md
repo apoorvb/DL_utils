@@ -21,3 +21,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
 
 6. ## writing vid
     1. after processing frames from local video file or camera stream, save it as video. Using Opencv
+    
+7. ## feedforward
+    1. code for forward pass in 1 layer neural network
