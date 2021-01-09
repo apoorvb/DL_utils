@@ -24,3 +24,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
     
 7. ## 1layer_nn.py
     1. code for single forward and backward pass in 1 layer neural network.
+    
+8. ## webcam segmentation
+    1. code for online webcam segmentation and visualisation.
