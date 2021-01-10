@@ -27,3 +27,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
     
 8. ## webcam segmentation
     1. code for online webcam segmentation and visualisation.
+    
+9. ## attn conditional
+    1. code for conditional attn
