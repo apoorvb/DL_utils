@@ -30,3 +30,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
     
 9. ## attn conditional
     1. code for conditional attn
+   
+10. ## spacy basics
+    1. basic spacy comands for text preprocessing.
