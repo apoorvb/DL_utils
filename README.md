@@ -33,3 +33,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
    
 10. ## spacy basics
     1. basic spacy comands for text preprocessing.
+    
+11. ## tflite model converter
+    1. code for converting model to tf lite compatible model
