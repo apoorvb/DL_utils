@@ -36,3 +36,6 @@ This repo contains list of relevent and useful commands and/or functions for Dee
     
 11. ## tflite model converter
     1. code for converting model to tf lite compatible model
+
+12. ## Using tfrec filetype
+    1. code for using files in tfrec dataformat
